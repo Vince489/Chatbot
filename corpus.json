@@ -20,6 +20,19 @@
       ]
     },
     {
+      "intent": "vbc.join",
+      "utterances": [
+        "i want to join VBC",
+        "how do I join VBC",
+        "can i join VBC",
+        "how do I become a member",
+        "how do i register"
+      ],
+      "answers": [
+        "You can join VBC by visiting our website..."
+      ]
+    },
+    {
       "intent": "greetings.thanks",
       "utterances": [
         "thanks",
@@ -46,10 +59,10 @@
         "good morning"
       ],
       "answers": [
-        "Hey there!",
-        "Greetings!",
-        "Hello!",
-        "Good Morning!"
+        "Hey there, how can we get started?",
+        "Greetings Earthling, do you need assistance?",
+        "Hello, what can I assist you with?",
+        "Good Morning, how can I help?"
       ]
     }
   ]
