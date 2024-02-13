@@ -1,0 +1,56 @@
+{
+  "name": "Greeting and Farewell Corpus",
+  "locale": "en",
+  "data": [
+    {
+      "intent": "greetings.bye",
+      "utterances": [
+        "goodbye for now",
+        "bye bye take care",
+        "okay see you later",
+        "bye for now",
+        "i must go"
+      ],
+      "answers": [
+        "till next time",
+        "see you soon!",
+        "goodbye!",
+        "have a nice day!",
+        "alright, be good!"
+      ]
+    },
+    {
+      "intent": "greetings.thanks",
+      "utterances": [
+        "thanks",
+        "thank you",
+        "thanks a lot",
+        "thank you very much",
+        "thanks heaps"
+      ],
+      "answers": [
+        "you're welcome!",
+        "no problem!",
+        "my pleasure!",
+        "it's all good!",
+        "anytime!"
+      ]
+    },
+    {
+      "intent": "greetings.hello",
+      "utterances": [
+        "hello",
+        "hi",
+        "howdy",
+        "hey",
+        "good morning"
+      ],
+      "answers": [
+        "Hey there!",
+        "Greetings!",
+        "Hello!",
+        "Good Morning!"
+      ]
+    }
+  ]
+}
